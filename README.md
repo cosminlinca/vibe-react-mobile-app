@@ -32,8 +32,7 @@ that you are connected on a valid premium account (that will let you to change t
 <img src="images//Screenshot_20200712_123918_host.exp.exponent.jpg" width="220"> <img src="images//Screenshot_20200712_124140_host.exp.exponent.jpg" width="220">
 
 ## Technologies
-- React Native
-- Spotify android-sdk 0.6.0
+- React Native 0.59.10
 
 ## Licence
 MIT License
