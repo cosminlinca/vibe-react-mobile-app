@@ -5,7 +5,7 @@ const REDIRECT_URI = "https://auth.expo.io/@anonymous/React-Off-App-3ea2425f-825
 const SPOTIFY_API_BASE_URL =  "https://api.spotify.com";
 const SPOTIFY_ACCOUNTS_URL = "https://accounts.spotify.com";
 const TOKEN_AUTHORIZATION = "Basic Yjk3OTk1ZDc2ZWQwNDU3YjhmNWY0ODE3ZTZhZTA3NmE6MGEzYzE4MDEyZDc3NDlkMGExNGUyOTJmZWE2MjhiMTg=";
-const apiUrl = 'http://192.168.43.60:7005';
+const apiUrl = 'http://192.168.100.5:7005';
 const httpLocalApiUrl = `http://${apiUrl}`;
 const log = getLogger('API');
 const defaultHeaders = {
